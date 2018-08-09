@@ -1,6 +1,8 @@
 ## Visual Question Generation for Class Acquisition of Unknown Objects
 
-This is the implementation of [Visual Question Generation for Class Acquisition of Unknown Objects](https://arxiv.org/abs/1808.01821) by Kohei Uehara, Antonio Tejero-De-Pablos, Yoshitaka Ushiku and Tatsuya Harada (ECCV 2018).
+This is the implementation of Visual Question Generation for Class Acquisition of Unknown Objects by Kohei Uehara, Antonio Tejero-De-Pablos, Yoshitaka Ushiku and Tatsuya Harada (ECCV 2018).
+
+The link to the paper is here: https://arxiv.org/abs/1808.01821
 
 ### Requirements
 
