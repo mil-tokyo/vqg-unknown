@@ -1,6 +1,6 @@
 ## Visual Question Generation for Class Acquisition of Unknown Objects
 
-This is the implementation of Visual Question Generation for Class Acquisition of Unknown Objects by Kohei Uehara, Antonio Tejero-De-Pablos, Yoshitaka Ushiku and Tatsuya Harada (ECCV 2018).
+This is the implementation of [Visual Question Generation for Class Acquisition of Unknown Objects](https://arxiv.org/abs/1808.01821) by Kohei Uehara, Antonio Tejero-De-Pablos, Yoshitaka Ushiku and Tatsuya Harada (ECCV 2018).
 
 ### Requirements
 
@@ -29,7 +29,7 @@ You can download files for this code, and if you want to use them, put them in t
 - word embeddings  [[Download](https://drive.google.com/open?id=1m3uKAAlqTG9YhwQ8qR2hOtgzeX3IKmMb)]
     - This contains word vectors by poincare embeddings for each of the target words from wordnet synset.
 - word id mappings  [[Download](https://drive.google.com/open?id=1mYrRcV3k48o3gMNTim5htD6btjvMKA-E)]
-    
+
 Also, you need to download Visual Genome images, and put them to ```/data/images/```
 
 
